@@ -1,0 +1,12 @@
+<TextureAtlas imagePath="hrs.png">
+	<SubTexture name="hrs_1.png" x="20" y="17" width="192" height="182"/>
+	<SubTexture name="hrs_2.png" x="227" y="17" width="181" height="182"/>
+	<SubTexture name="hrs_3.png" x="420" y="17" width="141" height="182"/>
+	<SubTexture name="hrs_4.png" x="575" y="17" width="70" height="182"/>
+	<SubTexture name="hrs_5.png" x="690" y="17" width="113" height="182"/>
+	<SubTexture name="hrs_6.png" x="25" y="255" width="186" height="182"/>
+	<SubTexture name="hrs_7.png" x="245" y="255" width="192" height="182"/>
+	
+	
+	
+</TextureAtlas>
